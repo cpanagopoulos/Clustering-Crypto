@@ -24,12 +24,15 @@ I used an unsupervivsed learning approach by clustering cryptocurrencies and plo
 
 ## Visualizations
 
-_Elbow Curve_
+<_Elbow Curve_>
+
 ![Elbow Curve](https://github.com/cpanagopoulos/Clustering-Crypto/blob/main/Images/Elbow_Curve.PNG)
 
-_Bokeh Plot_
+<_Bokeh Plot_>
+
 ![Bokeh Plot](https://github.com/cpanagopoulos/Clustering-Crypto/blob/main/Images/bokeh_plot.png)
 
-_Scatter Plot_
+<_Scatter Plot_>
+
 ![Scatter Plot](https://github.com/cpanagopoulos/Clustering-Crypto/blob/main/Images/Clustered_Scatter_Plot.png)
 
